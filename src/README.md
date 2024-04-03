@@ -13,9 +13,8 @@ The program is optimized to handle models with varying complexities, from 100 to
 In the lower right corner are the display settings. They are saved between sessions.
 
 ![Scale settings presentation](./gif/scale_settings.gif){ width=400px } ![Color settings presentation](./gif/color_settings.gif){ width=400px }
+<br>
 
-<br>
-<br>
 ## Installation
 To install, you will need Qt version 6, cmake, make, and a GCC compiler.<br>
 Navigate to the `src` directory and run the `make install` command.
