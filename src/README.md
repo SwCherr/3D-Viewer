@@ -22,6 +22,6 @@ Navigate to the `src` directory and run the `make install` command.
 ## For developers
 The project is developed following the MVP pattern on the Qt framework, in C++17 language .<br>
 The render window uses the openGL library.<br>
-All code related to the Model block is documented. To view the doxygen documentation, navigate to the "src" directory and run the "make dvi" command.<br>
-All code related to the Model block is covered on 100% with unit tests. Run command "make gcov_report" from "src"
+All code related to the Model block is documented. To view the doxygen documentation, navigate to the `src` directory and run the `make dvi` command.<br>
+All code related to the Model block is covered on 100% with unit tests. Run command `make gcov_report` from `src`
 directory, to view the coverage report.<br>
