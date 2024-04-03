@@ -1,5 +1,5 @@
-#ifndef _CPP4_3DVIEWER_CORE_MODEL_H_
-#define _CPP4_3DVIEWER_CORE_MODEL_H_
+#ifndef CPP4_3DVIEWER_CORE_MODEL_H_
+#define CPP4_3DVIEWER_CORE_MODEL_H_
 
 #include <memory>
 
@@ -84,4 +84,4 @@ class Model {
 };
 }  // namespace s21
 
-#endif  //_CPP4_3DVIEWER_CORE_MODEL_H_
+#endif  // CPP4_3DVIEWER_CORE_MODEL_H_
