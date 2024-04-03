@@ -8,11 +8,11 @@ The 3D viewer program a robust platform for working  with 3D wireframe models. I
 You can also move, zoom out, zoom in and rotate the model.<br>
 The program is optimized to handle models with varying complexities, from 100 to 1,000,000 vertices, ensuring smooth performance without interface freezing.<br>
 
-![Movement presentation](./gif/move.gif){ width=500px } ![Rotation presentation](./gif/rotate.gif){ width=500px }
+![Movement presentation](./gif/move.gif){ width=400px } ![Rotation presentation](./gif/rotate.gif){ width=400px }
 
 In the lower right corner are the display settings. They are saved between sessions.
 
-![Scale settings presentation](./gif/scale_settings.gif){ width=500px } ![Color settings presentation](./gif/color_settings.gif){ width=500px }
+![Scale settings presentation](./gif/scale_settings.gif){ width=400px } ![Color settings presentation](./gif/color_settings.gif){ width=400px }
 
 <br>
 <br>
