@@ -1,3 +1,10 @@
+.DS_Store
+src/.DS_Store
+src/core/.DS_Store
+src/tests/.DS_Store
+src/tests/obj_resurces/.DS_Store
+src/view/.DS_Store
+src/view/icons/.DS_Store
 # Prerequisites
 *.d
 
